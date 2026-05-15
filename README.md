@@ -1,56 +1,74 @@
 <h1 align="center">Hi 👋, I'm Ishmeet Singh Chadha</h1>
 
 <h3 align="center">
-First-Year B.Tech CSE (Core) Student at VIT Chennai
+🚀 First-Year B.Tech CSE (Core) Student at VIT Chennai
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Enthusiast;Exploring+Software+Development;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Exploring+Software+Development;Building+Projects+and+Learning+Daily;Future+AI%2FML+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishmeetsingh4311&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ishmeetsingh4311&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a first-year B.Tech Computer Science and Engineering (Core) student at VIT Chennai with a strong interest in technology, programming, and continuous learning.
+🎓 I am a First-Year B.Tech Computer Science and Engineering (Core) student at **VIT Chennai** with a strong passion for technology, coding, and continuous learning.
 
-I enjoy solving logical problems, building projects, and exploring different domains of computer science, especially Artificial Intelligence, Machine Learning, and Software Development.
+💡 I enjoy:
+- Solving logical and programming problems
+- Building real-world projects
+- Exploring modern technologies
+- Learning through hands-on experience
 
-I am proficient in Python and also have experience with C and C++. Alongside programming, I have worked with libraries and tools such as NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis and machine learning.
-
-I am also familiar with GitHub for version control and collaboration.
-
-Beyond programming, I have explored technologies and platforms including NVIDIA tools, Epic Games environments, and SolidWorks for design and engineering applications.
-
-Currently, I am focused on strengthening my understanding of:
-- Data Structures & Algorithms
-- Backend Development
+🤖 My primary interests include:
+- Artificial Intelligence
 - Machine Learning
-- AI/ML Concepts
 - Software Development
+- Backend Development
 
-My goal is to build impactful real-world projects, participate in hackathons, and grow into a skilled Software Developer and AI/ML Engineer.
+💻 I primarily work with **Python** and also have experience with:
+- C
+- C++
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+⚙️ I am also familiar with:
+- GitHub & Version Control
+- NVIDIA Technologies
+- SolidWorks
+- Epic Games Development Environment
+
+🎯 My goal is to strengthen my foundation in:
+- Data Structures & Algorithms
+- AI/ML Concepts
+- Backend Development
+- Problem Solving
+- Software Engineering
+
+while continuously building impactful projects and improving my development skills.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ishmeet-singh-a2b7a1391/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/singh_ishmeet13/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:ishmeetsingh4311@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -61,40 +79,46 @@ My goal is to build impactful real-world projects, participate in hackathons, an
 
 ## 👨‍💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=blue">
+<p align="center">
 
-<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-<p>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+<p align="center">
 
-<img src="https://img.shields.io/badge/NVIDIA-111111?style=for-the-badge&logo=nvidia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Epic_Games-111111?style=for-the-badge&logo=epicgames">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SolidWorks-111111?style=for-the-badge&logo=dassaultsystemes">
+<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
+
 </p>
 
 ---
@@ -103,18 +127,24 @@ My goal is to build impactful real-world projects, participate in hackathons, an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishmeetsingh4311&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishmeetsingh4311&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeetsingh4311&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeetsingh4311&theme=tokyonight&hide_border=true" height="180em"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeetsingh4311&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishmeetsingh4311&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishmeetsingh4311&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -129,12 +159,3 @@ currently_learning = [
     "AI/ML Concepts",
     "Software Development"
 ]
-```
-
----
-
-# ✨ Quote
-
-<p align="center">
-  <i>"Consistency and curiosity are the keys to growth in technology."</i>
-</p>
